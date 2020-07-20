@@ -1,2 +1,0 @@
-# smoke
- text-smoke-effect
